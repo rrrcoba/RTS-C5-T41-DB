@@ -44,15 +44,6 @@
       "gender": "Male",
       "origin": "Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
-    },
-    {
-      "id": 6,
-      "name": "asdasd",
-      "status": "a",
-      "species": "a",
-      "gender": "a",
-      "origin": "a",
-      "image": "https://static.thenounproject.com/png/1940210-200.png"
     }
   ]
 }
